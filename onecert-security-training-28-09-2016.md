@@ -10,11 +10,23 @@ Google Chrome and Firefox are the your best options for a secure browser. It wou
 
 ---
 
-We love our users, we really do! Sometimes, when we get really excited
-about something, we might forget to check whether what we do actually is
-for them or for us.
+# _**Tracking**_
 
-![inline](firefox-512.png)
+If you would like to take your privacy even further, consider enabling the _Do Not Track_ feature in your browser. Websites can collect and track your browsing data, which can be done for benefecial purposes like improving security but there is no way for a user to know how their data is being used. To enable _Do Not Track_, do the following:
+
+In Chrome:
+  1. On your computer, open Chrome. 
+  1. At the top right, click More and then **Settings**.
+  1. At the bottom, click **Show advanced settings**.
+  1. Under "Privacy," check or uncheck **Do Not Track**.
+
+In Firefox:
+  1. Click the menu button and choose Preferences.
+  1. Select the Privacy panel.
+  1. Click **manage your Do Not Track settings**.
+  1. Check **Use Do Not Track**.
+  1. Close the _about:preferences_ page. Any changes you've made will auomatically be saved.
+
 
 ---
 
