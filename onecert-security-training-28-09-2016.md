@@ -1,3 +1,5 @@
+autoscale: true
+
 # **B R O W S E R S**
 
 ![](Chrome_and_Firefox_Logos.png)
