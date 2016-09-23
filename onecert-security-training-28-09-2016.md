@@ -1,5 +1,14 @@
 autoscale: true
 
+
+# **I T  B E S T  P R A C T I C E S**
+
+Update, _update_, _**update**_! Especially:
+  1. Your operating system — vulnerabilities are found all the time and fixed when updates are released. Use
+
+
+---
+
 # **B R O W S E R S**
 
 ![](Chrome_and_Firefox_Logos.png)
