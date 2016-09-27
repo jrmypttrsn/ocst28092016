@@ -19,13 +19,13 @@ Update, _update_, _**update**_! Especially:
 
 ![inline 50%](chrome-512.png)![inline 50%](firefox-512.png)
 
-Google Chrome and Firefox are the your best options for a secure browser. It would be wise to install the HTTPS Everywhere extension, which is availble for Chrome and Firefox.
+Google Chrome and Firefox are the your best options for a secure browser. It would be wise to install the HTTPS Everywhere extension, which is available for Chrome and Firefox.
 
 ---
 
 # _**Tracking**_
 
-If you would like to take your privacy even further, consider enabling the _Do Not Track_ feature in your browser. Websites can collect and track your browsing data, which can be done for benefecial purposes like improving security but there is no way for a user to know how their data is being used. To enable _Do Not Track_, do the following:
+If you would like to take your privacy even further, consider enabling the _Do Not Track_ feature in your browser. Websites can collect and track your browsing data, which can be done for beneficial purposes like improving security but there is no way for a user to know how their data is being used. To enable _Do Not Track_, do the following:
 
 ---
 
@@ -44,9 +44,16 @@ If you would like to take your privacy even further, consider enabling the _Do N
   2. Select the Privacy panel.
   3. Click **manage your Do Not Track settings**.
   4. Check **Use Do Not Track**.
-  5. Close the _about:preferences_ page. Any changes you've made will auomatically be saved.
+  5. Close the _about:preferences_ page. Any changes you've made will automatically be saved.
 
 ![fit](firefox-512.png)
+
+---
+
+![fit](dropbox-512.png)
+# _**Drobpox**_
+
+New policy regarding Dropbox use is currently being drafted for the US and India offices.
 
 ---
 
@@ -88,7 +95,7 @@ disconnect it immediately from the internet or other network connections (such a
 
 #**_Ending_ your session on the server**
 
-Please sign out of Windows when ending your session on the server instead of simply closing the RDP window and disconnecting. When you disconnect your session is still techincally active and could attract unwanted visitors to our server.
+Please sign out of Windows when ending your session on the server instead of simply closing the RDP window and disconnecting. When you disconnect your session is still technically active and could attract unwanted visitors to our server.
 
 ---
 
