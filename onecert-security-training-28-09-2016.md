@@ -88,9 +88,7 @@ Websites can collect and track your browsing data, which can be done for benefic
 # In _Firefox_:
   1. Click the menu button and choose Preferences.
   2. Select the Privacy panel.
-  3. Click **manage your Do Not Track settings**.
-  4. Check **Use Do Not Track**.
-  5. Close the _about:preferences_ page. Any changes you've made will automatically be saved.
+  3. Check the box next to **Tell sites that I do not want to be tracked**.
 
 ![fit](firefox-512.png)
 
@@ -152,7 +150,7 @@ For now, we're going to stick with **_Windows Defender_**. It will update is ant
 ---
 
 ![fit](dropbox-512.png)
-# _**Drobpox**_
+# _**Dropbox**_
 
 New policy regarding **_Dropbox_** use is currently being drafted for the US and India offices.
 
